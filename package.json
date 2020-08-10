@@ -1,0 +1,21 @@
+{
+  "name": "capacitacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "link-prevue": "^1.2.0",
+    "vue": "^2.6.11",
+    "vue-inputmask": "^0.2.1",
+    "vue-masked-input": "^0.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
